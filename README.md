@@ -9,30 +9,25 @@
 
 ## Overview of the Project
 
-### Project: Student Grade Tracker
+### Project: Online Banking System
 
-**Objective:**
-The objective of this project is to develop a Java program that efficiently tracks and manages student grades. The program allows users to input grades for different subjects or assignments, calculate the average grade, and display the overall grade along with additional information such as letter grades and GPA.
+**Objective:**  
+The objective of this project is to develop a Java program that simulates an online banking system. The system allows users to manage bank accounts, perform transactions such as deposits, withdrawals, and transfers, and view account details and transaction history.
 
 ## Key Activities
 
-- **Grade Input:** Implemented methods to allow users to input grades for each student, with validation to ensure the grades are within a valid range.
-  
-- **Average Grade Calculation:** Developed a method to compute the average grade for each student based on the entered grades.
-  
-- **Letter Grade Calculation:** Created a system to determine the letter grade (A, B, C, D, F) based on the student's average grade.
+- **Account Management:** Implemented a system to create and manage multiple bank accounts with functionalities to view and update account details.
 
-- **GPA Calculation:** Implemented a feature to calculate the student's GPA on a 4.0 scale.
+- **Deposit and Withdrawal:** Developed methods for depositing and withdrawing funds with validation to ensure that withdrawals do not exceed the available balance.
 
-- **Data Management:** Designed the program to handle multiple students, enabling the user to manage a classroom's worth of data efficiently.
+- **Money Transfer:** Implemented a feature to transfer funds between accounts, ensuring the validity of both source and destination accounts.
 
-- **User Interface:** Provided a command-line interface that guides the user through entering data, ensuring an intuitive and error-free experience.
+- **Transaction History:** Designed the program to record and display a history of all transactions made within each account.
+
+- **User Interface:** Provided a command-line interface that guides the user through various banking operations, ensuring a smooth and intuitive experience.
 
 ## Technologies Used
 
-- **Programming Language:** Java  
-- **Development Tools:** IntelliJ IDEA, Eclipse, or any other Java IDE  
+- **Programming Language:** Java
+- **Development Tools:** Eclipse, or any other Java IDE
 - **Version Control:** Git
-
-## OUTPUT
-![image](https://github.com/user-attachments/assets/b56a275e-031c-4c36-8f6f-821d36b3a72a)

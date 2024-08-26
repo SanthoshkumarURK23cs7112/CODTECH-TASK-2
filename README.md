@@ -31,3 +31,13 @@ The objective of this project is to develop a Java program that simulates an onl
 - **Programming Language:** Java
 - **Development Tools:** Eclipse, or any other Java IDE
 - **Version Control:** Git
+
+##Output
+![online bankking 1](https://github.com/user-attachments/assets/07ce01f8-21f8-4e77-9c3a-b57c0117e7dc) 
+![online bankking 2](https://github.com/user-attachments/assets/b1071625-c00c-4cdb-a2fa-90b7c3763fac)  
+![online bankking 3](https://github.com/user-attachments/assets/c6906b34-3294-4737-9e21-e08643c36529) 
+![online bankking 4](https://github.com/user-attachments/assets/e8b845a1-8efa-45b0-80be-ded64da86c8d)
+
+
+
+

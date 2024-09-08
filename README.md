@@ -5,7 +5,7 @@
 **ID:** CT08DS7423  
 **Domain:** Java Development  
 **Duration:** 23rd August 2024 - 23rd September 2024  
-**Mentor:** [Your Mentor's Name]
+
 
 ## Overview of the Project
 
